@@ -1,0 +1,14 @@
+sales-analysis-project/
+│
+├── data/
+│   └── sales_data.csv              # Your dataset (downloaded or simulated)
+│
+├── notebooks/
+│   └── data_cleaning.ipynb          # Jupyter notebook for data cleaning
+│   └── exploratory_analysis.ipynb   # Jupyter notebook for analysis and visualizations
+│
+├── visuals/                        # Folder to store visualizations (auto-generated)
+│
+├── README.md                        # Project overview and explanation
+├── requirements.txt                 # Python dependencies
+└── sales_analysis.py                # Script for automated analysis (optional)
